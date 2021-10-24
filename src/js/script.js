@@ -117,7 +117,7 @@ $(document).ready(function () {
 		return false;
 	});
 
-	// Smooth scroll and pageup
+	//Для стрелочки скролла
 
 	$(window).scroll(function () {
 		if ($(this).scrollTop() > 1600) {
